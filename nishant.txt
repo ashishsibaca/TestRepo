@@ -2,3 +2,9 @@ Name: Nishant Ranjan
 Role: Developer
 
 Feature: Add new feature
+
+Actions: Addition and Deletion
+
+Start Date: 19-Sept-2022
+
+End Date: 20-Sept-2022
